@@ -1,4 +1,6 @@
-# Easy Fire tracker in React
+# Fire tracker in React
+
+This is a react App where we can track all the wildfires in the world.
 
 ## How it works
 
